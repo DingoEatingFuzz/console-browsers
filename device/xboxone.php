@@ -51,17 +51,17 @@
 			<div class="row-fluid">
 			
 				<div class="span4 well">
-					<h3>HTML5 Test: 342/555</h3>
+					<h3>HTML5 Test: 335/555</h3>
 					<div class="progress progress-danger">
-					  <div class="bar" style="width: 61%"></div>
+					  <div class="bar" style="width: 60.36%"></div>
 					</div>
-					<p>As of November 2013. Source: <a href="http://html5test.com">html5test.com</a></p>
+					<p>As of November 2013. Source: <a href="http://alpha.html5test.com/s/d533cb1c9d66eebf.html">html5test.com</a></p>
 				</div>
 				
 				<div class="span4 well">
-					<h3>CSS3 Test: ??</h3>
+					<h3>CSS3 Test: 51%</h3>
 					<div class="progress progress-info">
-					  <div class="bar" style="width: 0"></div>
+					  <div class="bar" style="width: 51%"></div>
 					</div>
 					<p>As of November 2013. Source: <a href="http://css3test.com">css3test.com</a></p>
 				</div>

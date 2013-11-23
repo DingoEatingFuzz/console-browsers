@@ -25,16 +25,16 @@
 					<h4>HTML5 Test</h4>
 					<p>342/555</p>
 					<div class="progress progress-danger">
-				  		<div class="bar" style="width: 61%"></div>
+					  <div class="bar" style="width: 60.36%"></div>
 					</div>
 					<p>Tested November 2013.</p>
-					<p>Source: <a href="http://html5test.com">html5test.com</a></p>
+					<p>Source: <a href="http://alpha.html5test.com/s/d533cb1c9d66eebf.html">html5test.com</a></p>
 				</div>
 				<div class="span3">
 					<h4>CSS3 Test</h4>
-					<p>??</p>
+					<p>51%</p>
 					<div class="progress progress-info">
-					  <div class="bar" style="width: 0"></div>
+					  <div class="bar" style="width: 51%"></div>
 					</div>
 					<p>Tested November 2013.</p>
 					<p>Source: <a href="http://css3test.com">css3test.com</a></p>
