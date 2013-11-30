@@ -11,21 +11,59 @@
 		<h2 class="page-header">TV consoles</h2>
 
 		<ul class="device-thumbnails unstyled">
+		    
+		    <li class="row-fluid">
+		    	<div class="span3 well">
+		    		<a href="device/ps4">
+		    			<h3>PS4</h3>
+		    			<p><img src="image/ps4-controller.png" alt="Picture of the PS4 controller" /></p>
+		    			<p>Browser is a WebKit version of NetFront</p>
+		    			<p class="btn">More details</p>
+		    		</a>
+		    	</div>
+		    	<div class="span3">
+		    		<h4>HTML5 Test</h4>
+		    		<p>336/555</p>
+		    		<div class="progress progress-danger">
+		    		  <div class="bar" style="width: 67.2%"></div>
+		    		</div>
+		    		<p>Tested November 2013.</p>
+		    		<p>Source: <a href="http://html5test.com">html5test.com</a></p>
+		    	</div>
+		    	<div class="span3">
+		    		<h4>CSS3 Test</h4>
+		    		<p>51%</p>
+		    		<div class="progress progress-info">
+		    		  <div class="bar" style="width: 51%"></div>
+		    		</div>
+		    		<p>Tested November 2013.</p>
+		    		<p>Source: <a href="http://css3test.com">css3test.com</a></p>
+		    	</div>
+		    	<div class="span3">
+		    		<h4>Acid3 Test</h4>
+		    		<p>100%</p>
+		    		<div class="progress progress-success">
+		    		  <div class="bar" style="width: 100%"></div>
+		    		</div>
+		    		<p>Tested November 2013.</p>
+		    		<p>Source: <a href="http://acid3.acidtests.org/">acid3.acidtests.org</a></p>
+		    	</div>
+		    </li>
 		
 			<li class="row-fluid">
 				<div class="span3 well">
-				<a href="device/xboxone">
-					<h3>Xbox One</h3>
-					<p><img src="image/xboxone-controller.jpg" alt="Picture of the Xbox One controller" /></p>
-					<p>Runs IE10.</p>
-					<p class="btn">More details</p>
-				</a>
+    				<a href="device/xboxone">
+    					<h3>Xbox One</h3>
+    					<p><img src="image/xboxone-controller.png" alt="Picture of the Xbox One controller" /></p>
+    					<p>Runs IE10.</p>
+    					<p class="btn">More details</p>
+    				</a>
 				</div>
 				<div class="span3">
 					<h4>HTML5 Test</h4>
-					<p>342/555</p>
+					<p>316/555</p>
 					<div class="progress progress-danger">
-					  <div class="bar" style="width: 60.36%"></div>
+					  <div class="bar" style="width: 56.94%"></div>
 					</div>
 					<p>Tested November 2013.</p>
 					<p>Source: <a href="http://alpha.html5test.com/s/d533cb1c9d66eebf.html">html5test.com</a></p>

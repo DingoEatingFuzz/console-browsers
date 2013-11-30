@@ -16,9 +16,7 @@
 		
 			<h1 class="page-header">Microsoft Xbox One</h1>
 			
-			<p class="alert alert-box alert-warning">These impressions have come from 10 minutes with a developer version of the Xbox One on the Xbox One Tour. Please don't take these as final until the console is released.</p>
-			
-			<p class="alert alert-info">Many thanks to <a href="http://www.steveworkman.com/">Steve Workman</a> for doing the research for this console browser.</p>
+			<p class="alert alert-info">Many thanks to <a href="http://www.steveworkman.com/">Steve Workman</a> for doing the initial research for this console browser.</p>
 			
 			<p class="lead browser browser-ie">Runs IE10.</p>
 			
@@ -26,23 +24,19 @@
 			
 				<div class="span6">
 				
-					<img src="../image/xboxone-controller.jpg" alt="Photo of the Xbox One controller." />
+					<img src="../image/xboxone-controller.png" alt="Photo of the Xbox One controller." />
 								
 				</div>
 				
 				<div class="span6">
 				
-				    
-				
-					<p>There's a cursor on the screen that glows green when it's hovered over a link. Scrolling is much improved over the Xbox 360. You can scroll by going off the bottom edge of the screen (left analogue stick) or by panning down with the right analogue stick. On the screen, there's a little scrollbar that can't be manipulated. I didn't notice any flicker on scrolling.</p>
+					<p>There's a cursor on the screen that glows blue when it's hovered over a link. Scrolling is much improved over the Xbox 360. You can scroll by going off the bottom edge of the screen (left analogue stick) or by panning down with the right analogue stick. On the screen, there's a little scrollbar that can't be manipulated.</p>
 					
 					<p>The keyboard has big touch areas. This is good for gesture or for using a device like a Wii-mote, but when you're using the analogue stick on the Xbox controller, this means lots of traversing. It has more helpers than the Xbox 360 browser like a dedicated .com button, but is otherwise very similar.</p>
 					
-					<p>The D-pad can't be used toggle through keys on the keyboard, only to move the position of the text cursor.</p>
+					<p class="alert">After running the Xbox One's browser through <a href="http://html5test.com">the HTML5 test</a>, <a href="http://blog.html5test.com/2013/11/coming-soon-new-scores-for-the-xbox-one/">the original score was revised</a> because the browser was reporting it supported features that it didn't. A bug has been filed with the Internet Explorer team. (November 2013)</p>
 					
 					<aside><p><a href="http://en.wikipedia.org/wiki/Xbox_One">More about the Xbox One on Wikipedia</a></p></aside>
-					
-					
 				
 				</div>
 			
@@ -51,9 +45,9 @@
 			<div class="row-fluid">
 			
 				<div class="span4 well">
-					<h3>HTML5 Test: 335/555</h3>
+					<h3>HTML5 Test: 316/555</h3>
 					<div class="progress progress-danger">
-					  <div class="bar" style="width: 60.36%"></div>
+					  <div class="bar" style="width: 56.94%"></div>
 					</div>
 					<p>As of November 2013. Source: <a href="http://alpha.html5test.com/s/d533cb1c9d66eebf.html">html5test.com</a></p>
 				</div>
@@ -116,73 +110,34 @@
 				</tr>
 				<tr>
 					<th>User Agent</th>
-					<td>TBC</td>
+					<td>Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0; Xbox; Xbox One)</td>
 				</tr>
 			</table>
-		
-			<!--<h3>Media query tests</h3>
-			
-			<aside><p>Source: <a href="http://www.jordanm.co.uk/palmreader">Palm Reader</a></p></aside>
-			
-			
-			<div class="row-fluid">
 				
-				<div class="span4">
-					<h4>What the device can read:</h4>
-					
-					<ul>
-						<li><code>screen</code></li>
-						<li><code>color</code></li>
-						<li><code>(orientation : landscape)</code></li>
-						<li><code>(min-width)</code></li>
-						<li><code>(max-width)</code></li>
-					</ul>
-				</div>
-				
-				<div class="span4">
-					<h4>What the device says it isn't:</h4>
-					
-					<ul>
-						<li><code>print</code></li>
-						<li><code>tv</code></li>
-						<li><code>monochrome</code></li>
-						<li><code>handheld</code></li>
-						<li><code>projection</code></li>
-					</ul>
-				</div>
-				
-				<div class="span4">
-					<h4>Device doesn't recognise:</h4>
-					
-					<ul>
-						<li><code>(-webkit-min-device-pixel-ratio: 2)</code></li>
-						<li><code>(pointer:coarse)</code></li>
-						<li><code>(pointer:fine)</code></li>
-						<li><code>(pointer:none)</code></li>
-					</ul>
-				</div>
-			
-			</div>-->
-		
 			<h2 class="page-header">Controls</h2>
 			
 			<h3>Primary Controller</h3>
 			
-			<!--<figure>
-				<a href="../image/diagram-xbox360-controller.png">
-					<img src="../image/diagram-xbox360-controller.png" alt="Photo of the Xbox 360 controller." />
+			<figure>
+				<a href="../image/diagram-xboxone-controller.png">
+					<img src="../image/diagram-xboxone-controller.png" alt="Diagram of the Xbox 360 controller." />
 					<figcaption>
 						<p><i class="icon icon-resize-full"></i> See big version</p>
 					</figcaption>
 				</a>
-			</figure>-->
-			<p>The Xbox One controller will be detailed very soon</p>
+			</figure>
 			
 			<h3>Other input devices</h3>
 			
 			<ul>
-				<li><a href="http://en.wikipedia.org/wiki/Kinect">Kinect</a>, motion sensing input device. Information on how the Kinect integrates with IE on Xbox One is unavailable at this time</li>
+				<li><a href="http://en.wikipedia.org/wiki/Kinect#Kinect_on_the_Xbox_One">Kinect</a>, motion sensing input device.</li>
 				<li><a href="http://en.wikipedia.org/wiki/Xbox_SmartGlass">SmartGlass, highly useful for keyboard input</a></li>
+			</ul>
+			
+			<h2 class="page-header">Articles</h2>
+			
+			<ul>
+			    <li><a href="http://www.vg247.com/2013/11/16/xbox-one-internet-explorer-team-increased-support-for-modern-web-standards-by-over-200-from-xbox-360/">VG24/7: Xbox One: Internet Explorer team increased support for modern web standards by over 200% from Xbox 360</a></li>
 			</ul>
 			
 			<h2 class="page-header">Photos</h2>
@@ -192,7 +147,7 @@
 				</script>
 			</div>
 		
-			<p class="quiet">See more on <a href="http://www.flickr.com" id="flickr_www">www.<strong style="color:#3993ff">flick<span style="color:#ff1c92">r</span></strong>.com</a> in the <a href="http://www.flickr.com/groups/2101283@N20/pool/tags/xboxone/">Game console browsers pool tagged with xbox one</a></p>
+			<p class="quiet">See more on <a href="http://www.flickr.com" id="flickr_www">www.<strong style="color:#3993ff">flick<span style="color:#ff1c92">r</span></strong>.com</a> in the <a href="http://www.flickr.com/groups/2101283@N20/pool/tags/xboxone/">Game console browsers pool tagged with xbox one</a></p>			
 			
 		</div><!-- .span9 -->
 	
