@@ -242,20 +242,20 @@
 				</div>
 				<div class="span3">
 					<h4>HTML5 Test</h4>
-					<p>109/500</p>
+					<p><s>109/500</s> 97/555</p>
 					<div class="progress progress-danger">
-				  		<div class="bar" style="width: 21.8%"></div>
+				  		<div class="bar" style="width: 17.48%"></div>
 					</div>
-					<p>Tested March 2013.</p>
+					<p>As of <s>March 2013</s> February 2014.</p>
 					<p>Source: <a href="http://html5test.com">html5test.com</a></p>
 				</div>
 				<div class="span3">
 					<h4>CSS3 Test</h4>
-					<s>42%</s> 43%</h3>
+					<p><s>42%</s> <s>43%</s> 64%</p>
 					<div class="progress progress-info">
-					  <div class="bar" style="width: 43%"></div>
+					  <div class="bar" style="width: 64%"></div>
 					</div>
-					<p>As of <s>March 2013</s> May 2013.</p>
+					<p>As of <s>March 2013</s> <s>May 2013</s> February 2014.</p>
 					<p>Source: <a href="http://css3test.com">css3test.com</a></p>
 				</div>
 				<div class="span3">
@@ -264,7 +264,7 @@
 					<div class="progress progress-success">
 					  <div class="bar" style="width: 92%"></div>
 					</div>
-					<p>Tested March 2013.</p>
+					<p>As of <s>March 2013</s> February 2014.</p>
 					<p>Source: <a href="http://acid3.acidtests.org/">acid3.acidtests.org</a></p>
 				</div>
 			</li>
