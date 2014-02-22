@@ -51,6 +51,13 @@
 				<li><a href="https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&sqi=2&ved=0CDYQFjAB&url=http%3A%2F%2Fdownload.microsoft.com%2Fdownload%2FB%2F0%2F7%2FB070724E-52B4-4B1A-BD1B-05CC28D07899%2FHuman_Interface_Guidelines_v1.5.0.pdf&ei=2ScqUeyRMqGx0AWwsYCoCA&usg=AFQjCNE1oIxC7FXiiPgqi3C0Z2sbpfr6BQ&bvm=bv.42768644,d.d2k"><i class="icon-file"></i> <strong>Kinect's Human Interface Guidelines</strong> (PDF), Microsoft</a></li>
 			</ul>
 			
+			<h2>Articles</h2>
+			<ul>
+			    <li><a href-"http://maban.co.uk/73">Using the Nintendo DSi browser – maban.co.uk</a></li>
+			    <li><a href-"http://alistapart.com/article/testing-websites-in-game-console-browsers">Testing Websites in Game Console Browsers – A List Apart</a></li>
+			    <li><a href="http://maban.co.uk/88">Google and the 3DS XL browser – maban.co.uk</a></li>
+			    <li><a href-"http://maban.co.uk/84">Xbox One, a new console, a new console browser – maban.co.uk</a></li>
+			</ul>
 			
 			<h2>Useful Links</h2>
 			<ul>

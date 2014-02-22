@@ -32,7 +32,12 @@
 					
 					<p>3D images cannot be viewed within the browser: they need to be downloaded first. They are saved in MPO format which is 2 JPEGs layered on top of each other, which falls back to a single JPEG where 3D images aren't supported.</p>
 					
-					<aside><p><a href="http://en.wikipedia.org/wiki/Nintendo_3DS">More about the 3DS on Wikipedia</a></p></aside>
+					<aside>
+					    <ul>
+					        <li><a href="http://en.wikipedia.org/wiki/Nintendo_3DS">More about the 3DS on Wikipedia</a></li>
+					        <li><a href="http://maban.co.uk/88">Article about Google and the 3DS XL browser</a></li>
+					    </ul>
+					</aside>
 				
 				</div>
 			
