@@ -140,7 +140,7 @@
 			
 			<ul>
 				<li><a href="http://en.wikipedia.org/wiki/PlayStation_4#Camera">PS4 Camera</a>, official motion-sensing device with 2 1280×800px lenses.</li>
-				<li><a href="http://en.wikipedia.org/wiki/PlayStation_Vita">PlayStation Vita</a>, official handheld console that connect with the PlayStation 3 and 4.</li>
+				<li><a href="ps-vita.php">PlayStation Vita</a>, official handheld console that connect with the PlayStation 3 and 4.</li>
 				<li><a href="http://uk.playstation.com/ps4/features/app/">PlayStation 4 App</a>, official app that includes a second screen feature for the console.</li>
 			</ul>
 			
