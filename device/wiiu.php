@@ -16,7 +16,7 @@
 		
 			<h1 class="page-header">Nintendo Wii U</h1>
 			
-			<p class="lead browser browser-webkit">Webkit version of NetFront</p>
+			<p class="lead browser browser-webkit">NetFront® Browser NX v2.1 (WebKit)</p>
 			
 			<div class="row-fluid">
 				
@@ -117,6 +117,74 @@
 				<tr>
 					<th>User Agent</th>
 					<td><code>Mozilla/5.0 (Nintendo WiiU) AppleWebKit/534.52 (KHTML, like Gecko) NX/2.1.0.8.23 NintendoBrowser/1.1.0.7579.EU</code></td>
+				</tr>
+			</table>
+			
+			<aside><p>Source: <a href="http://www.nintendo.com/wiiu/built-in-software/browser-specs/">Nintendo.com: Wii U Internet Browser Specs</a>, February 2014</p></aside>
+			
+			<table class="table table-striped">
+				<tr>
+					<th>Supported Protocols</th>
+					<td>HTTP1.0/HTTP1.1/SSL3.0/TLS1.0/TLS1.1/TLS1.2</td>
+				</tr>
+				<tr>
+					<th>Supported Web Standards</th>
+					<td>
+					    <ul>
+					        <li>HTML4.01</li>
+					        <li>HTML5</li>
+					        <li>XHTML1.1</li>
+					        <li>CSS1</li>
+					        <li>CSS2.1/CSS3 (partial functionality)</li>
+					        <li>DOM1-3</li>
+					        <li>ECMAScript</li>
+					        <li>XMLHttpRequest</li>
+					        <li>canvas</li>
+					        <li>Video</li>
+					        <li>Web Storage (partial functionality)</li>
+					        <li>Web Messaging</li>
+					        <li>Server-Sent Events</li>
+					        <li>Device Orientation</li>
+					        <li>WOFF</li>
+					        <li>SVG</li>
+					        <li>WebSocket</li>
+					        <li>Video Subtitle</li>
+					        <li>Fullscreen</li>
+					    </ul>
+					</td>
+					<tr>
+						<th>Plugins</th>
+						<td>Does not support plug-ins, such as Adobe Flash.</td>
+					</tr>
+					<tr>
+						<th>TouchEvent</th>
+						<td>The browser supports only one of these at a time: touchstart, touchend, touchmove, touchcancel</td>
+					</tr>
+					<tr>
+						<th>Screen resolution</th>
+						<td>
+						    <ul>
+						        <li>If it isn’t specified, width is 980px layout</li>
+						        <li>It is possible to specify width/height of the viewport within the HTML’s <code>&lt;head&gt;...&lt;/head&gt;</code>, and specify scaling permission via user-scalable meta tags. <code>&lt;meta name="viewport" content="width=device-width, user-scalable=no"/&gt;</code></li>
+						    </ul>
+						</td>
+					</tr>
+					<tr>
+						<th>Saving of image/video</th>
+						<td>Not supported</td>
+					</tr>
+					<tr>
+						<th>Video Format</th>
+						<td>MP4, M3U8+TS(HTTPLiveStreaming) (Some videos may not be playable.)</td>
+					</tr>
+					<tr>
+						<th>Video Codec</th>
+						<td>H.264 - MPEG-4 AVC Video (Some videos may not be playable.)</td>
+					</tr>
+					<tr>
+						<th>Audio Codec</th>
+						<td>AAC - ISO/IEC 14496-3 MPEG-4 AAC (Some audio may not be playable.)</td>
+					</tr>
 				</tr>
 			</table>
 			
