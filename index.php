@@ -70,11 +70,11 @@
 				</div>
 				<div class="span3">
 					<h4>CSS3 Test</h4>
-					<p>51%</p>
+					<p>46% <s>51%</s></p>
 					<div class="progress progress-info">
-					  <div class="bar" style="width: 51%"></div>
+					  <div class="bar" style="width: 46%"></div>
 					</div>
-					<p>Tested November 2013.</p>
+					<p>Tested February 2014 <s>November 2013</s>.</p>
 					<p>Source: <a href="http://css3test.com">css3test.com</a></p>
 				</div>
 				<div class="span3">

@@ -49,15 +49,15 @@
 					<div class="progress progress-danger">
 					  <div class="bar" style="width: 56.94%"></div>
 					</div>
-					<p>As of November 2013. Source: <a href="http://alpha.html5test.com/s/d533cb1c9d66eebf.html">html5test.com</a></p>
+					<p>As of February 2014. Source: <a href="http://alpha.html5test.com/s/d533cb1c9d66eebf.html">html5test.com</a></p>
 				</div>
 				
 				<div class="span4 well">
-					<h3>CSS3 Test: 51%</h3>
+					<h3>CSS3 Test: 46% <s>51%</s></h3>
 					<div class="progress progress-info">
-					  <div class="bar" style="width: 51%"></div>
+					  <div class="bar" style="width: 46%"></div>
 					</div>
-					<p>As of November 2013. Source: <a href="http://css3test.com">css3test.com</a></p>
+					<p>As of February 2014 <s>November 2013</s>. Source: <a href="http://css3test.com">css3test.com</a></p>
 				</div>
 				
 				<div class="span4 well">
